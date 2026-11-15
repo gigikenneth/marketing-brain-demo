@@ -1,23 +1,25 @@
-# Voice
+---
+title: Voice and tone
+type: brand
+owner: Gigi
+review_every: 365d
+last_reviewed: 2026-10-20
+---
 
-We sound like a calm producer who has shipped a hundred projects.
+# Voice and tone
 
-## Do
+Asele sounds like a knowledgeable friend: direct, warm and grounded.
 
-- Be specific. "Two designers free from Tuesday" beats "better visibility".
-- Use short sentences.
-- Talk about agency life as it is: late briefs, scope creep, Friday deadlines.
+## Qualities
 
-## Don't
+- **Direct.** Say what you mean in the fewest clear words.
+- **Warm, not gushing.** Warmth comes from being specific, not from exclamation marks.
+- **Grounded.** Every claim is defensible and sourced.
+- **Culturally aware.** It shows in the food references, the languages and the assumptions we don't make.
 
-- Use hype words like revolutionary or game-changing.
-- Blame clients.
-- Use exclamation marks in headlines.
+## We avoid
 
-## Words we use
-
-capacity, burn, fee, brief, retainer, resourcing
-
-## Words we avoid
-
-synergy, leverage (as a verb), seamless
+- Em dashes.
+- Hype words like groundbreaking, seamless or revolutionising.
+- Medical claims. We help women notice patterns, a clinician interprets them.
+- Talking down to anyone.

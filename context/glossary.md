@@ -1,14 +1,15 @@
 ---
 title: Glossary
 type: context
-owner: Priya
+owner: Gigi
 review_every: 365d
-last_reviewed: 2026-02-18
+last_reviewed: 2026-09-30
 ---
 
 # Glossary
 
-- **Burn:** how much of a project fee has been used.
-- **Capacity:** hours a person can work on client projects in a week.
-- **Retainer:** a monthly fee for ongoing work.
-- **Overrun:** a project that goes over its fee or deadline.
+- **Check-in:** the daily log of period, mood, energy, sleep and pain.
+- **Health Brief:** the shareable summary for a doctor's appointment.
+- **Amara:** Asele's multilingual AI assistant.
+- **Blush & Bloom:** Asele's podcast.
+- **Pattern:** a symptom that repeats across cycles, as opposed to a one-off.

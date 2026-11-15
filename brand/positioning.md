@@ -1,36 +1,29 @@
 ---
 title: Positioning
 type: positioning
-owner: Dana
-review_every: 365d
-last_reviewed: 2026-04-10
+owner: Gigi
+review_every: 180d
+last_reviewed: 2026-05-12
 ---
 
 # Positioning
 
 ## For
 
-Operations leads at creative agencies with 15 to 150 people.
+Women in Nigeria, across Africa and in the diaspora who live with recurring symptoms and want to understand them.
 
 ## Who struggle with
 
-Projects that slip because resourcing lives in spreadsheets, timelines live in a PM tool and budgets live in finance software.
+Symptoms that get dismissed as normal, health information that wasn't written for them, and appointments where they have to reconstruct months of symptoms from memory.
 
-## Fernway is
+## Asele is
 
-A project planning tool that puts people, timelines and budget burn in one view.
+A women's health companion that tracks cycles and symptoms, finds patterns over time and turns them into a Health Brief to take to a doctor.
 
 ## Unlike
 
-General PM tools that track tasks but not who is free next week or how much of the fee is left.
+Period trackers built mainly for predicting the next period or for fertility.
 
-## Proof
+## Because
 
-- Agencies on Fernway report fewer overruns in their first quarter (see `campaigns/spring-launch/results.md`).
-- Plans start from $12 per seat per month.
-
-## Pillars
-
-1. See capacity before you commit.
-2. Know budget burn in real time.
-3. Plan with the client, not around them.
+It is built for African women from day one, with an assistant that answers in Yoruba, Hausa, Igbo, Swahili, French and English.

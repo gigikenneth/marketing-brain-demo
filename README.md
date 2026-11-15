@@ -1,36 +1,28 @@
-# Fernway marketing brain (sample)
+---
+title: About this repo
+type: readme
+owner: Gigi
+review_every: 365d
+last_reviewed: 2026-11-03
+---
 
-This is a sample marketing repository for **Fernway**, a fictional project planning tool for creative agencies. It exists to demo [MarketingHQ](https://marketinghq-engine.lovable.app), which reads a repo like this and tells you what needs attention.
+# Asele marketing brain
 
-Everything here is made up. The company, people, numbers and competitors are fictional.
+This is the shared source of truth for how Asele talks about itself. People and AI agents read it before writing anything for Asele.
+
+Asele is a women's health app built for African women and the diaspora. It helps women track their cycles and symptoms, notice patterns over time and prepare for healthcare conversations.
 
 ## How it's organised
 
-| Folder | What lives there |
-|---|---|
-| `brand/` | Positioning, voice, visual identity |
-| `strategy/` | Annual plan, SEO, channel mix |
-| `research/` | Competitors, ideal customer profile, interviews |
-| `campaigns/` | One folder per campaign: brief and results |
-| `prompts/` | Reusable prompts for AI writing tools |
-| `workflows/` | Step-by-step processes the team and AI agents follow |
-| `context/` | Product facts and glossary that agents load as context |
-| `CLAUDE.md` | Instructions for AI coding agents working in this repo |
+- `brand/` who we are and how we sound
+- `context/` product facts and what Asele is not
+- `audiences/` the people we write for
+- `content/` content pillars and the Blush & Bloom podcast
+- `channels/` copy for specific channels
+- `prompts/` reusable prompts for AI agents
+- `workflows/` how recurring work gets done
+- `research/` market context with sources
 
-## Metadata
+Every file has front matter with an owner and a review schedule. MarketingHQ checks it regularly and flags anything overdue.
 
-Each document can start with front matter that MarketingHQ reads:
-
-```yaml
----
-title: Competitor landscape
-type: competitor
-owner: Priya
-review_every: 30d
-last_reviewed: 2026-09-02
----
-```
-
-`review_every` says how often the file should be checked. A competitor file goes stale in weeks; positioning can stay right for a year. When it's missing, MarketingHQ uses a default for the document type.
-
-Some files here have deliberate problems (stale research, broken links, missing metadata) so the demo has something to find.
+This is a sample workspace for the MarketingHQ demo.

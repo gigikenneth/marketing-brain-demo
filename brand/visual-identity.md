@@ -1,15 +1,14 @@
 ---
 title: Visual identity
 type: brand
-owner: Dana
+owner: Gigi
 review_every: 365d
-last_reviewed: 2026-02-18
+last_reviewed: 2026-09-30
 ---
 
 # Visual identity
 
-- Primary colour: Fern green #1F6F50
-- Accent: Clay #E2B79A
-- Type: Söhne for headings, Inter for body
-- Photography: real agency studios, natural light, no stock handshakes
-- Logo files live in the shared drive, not in this repo
+- Colours: soft pink, deep plum and warm white. Avoid harsh clinical blue.
+- Type: a friendly serif for headlines, a clean sans for body text.
+- Photography: Black women in everyday settings, natural light, never stock clinic shots. Credit every photographer.
+- Illustration: simple shapes and botanicals, never anatomical diagrams in marketing.

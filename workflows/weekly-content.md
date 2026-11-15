@@ -1,16 +1,14 @@
 ---
-title: Weekly content workflow
+title: Weekly content
 type: workflow
-owner: Dana
+owner: Gigi
 review_every: 90d
-last_reviewed: 2026-08-04
+last_reviewed: 2026-11-03
 ---
 
-# Weekly content workflow
+# Weekly content
 
-1. Monday: pick a topic from `research/customer-interviews-2026-q1.md`.
-2. Draft the post with `prompts/linkedin-post.md`.
-3. Check facts against `context/product-facts.md`.
-4. Schedule in the social tool for Wednesday 9:00.
-5. Repurpose into the newsletter with `prompts/newsletter.md`.
-6. Log results in `campaigns/content-log.md`.
+1. Monday: check the MarketingHQ feed and pick one signal worth a post.
+2. Draft one LinkedIn post and one Instagram carousel using `prompts/linkedin-post.md`.
+3. Check every claim against `context/product-facts.md`.
+4. Schedule for Tuesday and Thursday.
